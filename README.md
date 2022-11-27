@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ToosinDada
-- 👀 I’m interested in Business and Data Analytics, Project management, Scrum master roles
-- 🌱 I’m currently learning Python, AWS
+- 👋 Hi, I’m @TosinDada
+- 👀 I’m interested in creating great stuff
+- 🌱 I’m currently sharpening my ServiceNow Dev & Admin Skills to become a Solutions Architect
 - 💞️ I’m looking to collaborate on projects that I can use my skills and experiences on
 - 📫 How to reach me at my email - toosindada@gmail.com 
 
